@@ -6,6 +6,7 @@ Release:	1
 License:	GPL
 Group:		X11/Applications
 Source0:	http://www.devhelp.net/books/books/libglade.tar.gz
+# Source0-md5:	e93a804f7b616d38be1490f4424daa0e
 URL:		http://www.devhelp.net/
 Requires:	devhelp
 BuildArch:	noarch
