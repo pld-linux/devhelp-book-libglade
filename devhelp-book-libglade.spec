@@ -1,5 +1,5 @@
 Summary:	DevHelp book: libglade
-Summary(pl):	Ksi±¿ka do DevHelpa o libglade
+Summary(pl.UTF-8):   KsiÄ…Å¼ka do DevHelpa o libglade
 Name:		devhelp-book-libglade
 Version:	1.0
 Release:	1
@@ -17,8 +17,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 DevHelp book about libglade.
 
-%description -l pl
-Ksi±¿ka do DevHelpa o libglade.
+%description -l pl.UTF-8
+KsiÄ…Å¼ka do DevHelpa o libglade.
 
 %prep
 %setup -q -c -n libglade
