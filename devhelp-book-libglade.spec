@@ -1,5 +1,5 @@
 Summary:	DevHelp book: libglade
-Summary(pl.UTF-8):   Książka do DevHelpa o libglade
+Summary(pl.UTF-8):	Książka do DevHelpa o libglade
 Name:		devhelp-book-libglade
 Version:	1.0
 Release:	1
